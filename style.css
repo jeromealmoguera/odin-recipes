@@ -1,0 +1,16 @@
+* {
+	outline: 1px solid red;
+}
+
+ul {
+	padding-left: 0;
+	list-style: none;
+}
+
+.mheader {
+	text-align: center;
+
+	font-size: 100px;
+	font-weight: 900;
+	font-family: "Montserrat", sans-serif;
+}
